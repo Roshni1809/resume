@@ -1,0 +1,38 @@
+    .resume {
+        width: 800px;
+        height: auto;
+        display: flex;
+        margin: 50px auto;
+    }
+    
+    .left {
+        width: 780 px;
+        height: auto;
+    }
+    
+    table,
+    tr,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    
+    .right {
+        width: 20 px;
+        height: auto;
+    }
+    
+    .checked {
+        color: #30e6f7;
+    }
+    
+    .rightd {
+        padding: 10px;
+        background-color: #71c9ce;
+        color: white;
+    }
+    
+    .leftd {
+        padding: 10px;
+        background-color:#e3fdfd;
+    }
